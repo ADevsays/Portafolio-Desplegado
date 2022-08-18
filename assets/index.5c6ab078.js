@@ -1296,7 +1296,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     right: 0px;
     width: 40%;
 
-`;function k6(){const{languageUse:t}=Ht(),{form:e}=t;return fe(T6,{action:"https://formsubmit.co/58fcef39605873a0f289b830ba299f77",method:"POST",className:"position-relative",children:[A(t0,{className:"mb-3",label:e[1],type:"text",name:"name"}),A(t0,{className:"mb-4",label:e[2],type:"email",name:"email"}),fe(Mx,{children:[A(E6,{required:!0,placeholder:"Todos los detalles...",name:"detail"}),A(Ix,{htmlFor:"detail",id:"label2",children:e[3]+"..."})]}),A("div",{className:"d-flex justify-content-center m-2",children:A(Zu,{className:"p-2 w-50",children:e[4]})})]})}const A6=oe.a`
+`;function k6(){const{languageUse:t}=Ht(),{form:e}=t;return fe(T6,{netlify:!0,name:"contact",className:"position-relative",children:[A(t0,{className:"mb-3",label:e[1],type:"text",name:"name"}),A(t0,{className:"mb-4",label:e[2],type:"email",name:"email"}),fe(Mx,{children:[A(E6,{required:!0,placeholder:"Todos los detalles...",name:"detail"}),A(Ix,{htmlFor:"detail",id:"label2",children:e[3]+"..."})]}),A("div",{className:"d-flex justify-content-center m-2",children:A(Zu,{className:"p-2 w-50",children:e[4]})})]})}const A6=oe.a`
     width: 85%;
     margin:0  0 40px 35px;
     ${Ie.centrar}
